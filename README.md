@@ -1,4 +1,7 @@
 # mushroom
+基于vue vuecli3 vuex vuerouter开发的商城
+使用axios对网络请求进行封装
+实现了首页，分类，购物车，商品详情页等基本功能及展示
 
 ## Project setup
 ```
